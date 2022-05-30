@@ -1,3 +1,3 @@
 # test-lab-day1
 
-this is test readme file  updated by my local computer 
+this is test readme file  updated by my local computer  using git terminal 
